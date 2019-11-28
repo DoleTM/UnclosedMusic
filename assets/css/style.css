@@ -6,3 +6,19 @@ html {
 nav {
     background-color: #212529;
 }
+
+.fa-soundcloud {
+    background-image: linear-gradient(to bottom, #ff8201, #ff3e00);
+}
+
+.fa-twitter {
+    background-image: linear-gradient(to bottom, #1da1f2, #1da1f2);
+}
+
+.fa-instagram {
+    background-image: linear-gradient(to bottom, #355bff, #e13d58, #fad67e);
+}
+
+.header {
+    color: black;
+}
